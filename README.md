@@ -85,9 +85,10 @@ After adjusting class imbalances by employing different techniques - Undersample
 
 ---
 # Intepretation, Conclusions and Recommendations
-
-*work in progress*
-
+- Use topic modeling to label reviews for learners and for identifying areas of improvements for course instructors/developers 
+- Redesign UI to present more meaningful information to the learners
+- Develop outcome and review dashboard for course instructors/developers 
+- Design a rating recommender - when the learner write a review, recommend a bad (1, 2 or 3) or good (4 or 5). Since the model is over ‘critical’, in the long run, there will be more 1, 2, or 3 ratings and learners can better use the over ratings to differentiate course quality. 
 
 
 
